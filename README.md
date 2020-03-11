@@ -14,7 +14,7 @@ will obviously cause problems. I'll get around to fixing that when the skeleton 
 This has the capability to be used as a package in other projects, but it would take some time to get used to the usage of some of the
 methods and error handling, which I built directly into the console, forgetting the fact that outside of my project, the console
 would most likely not be used. But within the ReadReturn object class, the usage is not hard to understand, so using this as a
-standalone package is definitely possible.<br/>
+standalone package is definitely possible. TO RUN: just run 'Main.py' with python <br/>
 <br/>
 <center><h1>QUERY COMMANDS</h1></center>
 <br/>
