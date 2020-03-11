@@ -1,0 +1,10 @@
+DOCS:
+    Database Format:
+        TABLE_NAME|COL:VAL|COL:VAL|COL:VAL|COL:VAL
+
+    Functionality:
+        ReadReturn() object
+            USAGE:
+                ReadReturn(database_name, table_name)
+            eg.
+                read = ReadReturn("database.txt", "TABLE_NAME")
